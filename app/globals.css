@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("../app/assets/styles/navigation.css");
-@import url("../app/assets/styles/modal.css");
+@import url("../app/styles/navigation.css");
+@import url("../app/styles/modal.css");
 
 @font-face {
   font-family: "Degular Display";
